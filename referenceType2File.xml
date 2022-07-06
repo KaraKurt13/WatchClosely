@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>3a0db685f114bbf4e837ee81aae56661</guid>
+    <fileName>Assets/Clock/Scripts/Clock.cs</fileName>
+    <timeStamp>2018-03-11T21:34:17+02:00</timeStamp>
+    <typeFullName>
+      <string>Clock</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>51fc26c2daf04436db5111015e7ecc8c</guid>
+    <fileName>Assets/Realistic Glitches Lite/Assets/Scripts/BWEffect.cs</fileName>
+    <timeStamp>2017-12-27T20:45:43+02:00</timeStamp>
+    <typeFullName>
+      <string>BWEffect</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8a586f6d22ed04f1db53808858eddae0</guid>
+    <fileName>Assets/Realistic Glitches Lite/Assets/Scripts/DiyEffect__FullOnly.cs</fileName>
+    <timeStamp>2017-12-27T20:45:48+02:00</timeStamp>
+    <typeFullName>
+      <string>ShaderParams</string>
+      <string>DiyEffect__FullOnly</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c23356f494faf4703bf771f7ebc5708d</guid>
+    <fileName>Assets/Realistic Glitches Lite/Assets/Scripts/ShaderEffect_BleedingColors.cs</fileName>
+    <timeStamp>2017-12-27T20:45:50+02:00</timeStamp>
+    <typeFullName>
+      <string>ShaderEffect_BleedingColors</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3742b3db229aa4af88a4485f7a021c8b</guid>
+    <fileName>Assets/Realistic Glitches Lite/Assets/Scripts/ShaderEffect_CorruptedVram.cs</fileName>
+    <timeStamp>2017-12-27T20:45:42+02:00</timeStamp>
+    <typeFullName>
+      <string>ShaderEffect_CorruptedVram</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>59700678e0092463cb106a3995cd22a4</guid>
+    <fileName>Assets/Realistic Glitches Lite/Assets/Scripts/ShaderEffect_CRT.cs</fileName>
+    <timeStamp>2017-12-27T20:45:44+02:00</timeStamp>
+    <typeFullName>
+      <string>ShaderEffect_CRT</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6f1902ae72b3745348e0587879eb2d53</guid>
+    <fileName>Assets/Realistic Glitches Lite/Assets/Scripts/ShaderEffect_Scanner.cs</fileName>
+    <timeStamp>2017-12-27T20:45:47+02:00</timeStamp>
+    <typeFullName>
+      <string>ShaderEffect_Scanner</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ef0b32a5a0f5e4e179cb98a8bdd4a297</guid>
+    <fileName>Assets/Realistic Glitches Lite/Assets/Scripts/ShaderEffect_Tint.cs</fileName>
+    <timeStamp>2017-12-27T20:45:54+02:00</timeStamp>
+    <typeFullName>
+      <string>ShaderEffect_Tint</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>241314d1fb77b45f7a50e5561c0a9e23</guid>
+    <fileName>Assets/Realistic Glitches Lite/Assets/Scripts/ShaderEffect_Unsync.cs</fileName>
+    <timeStamp>2017-12-27T20:45:42+02:00</timeStamp>
+    <typeFullName>
+      <string>ShaderEffect_Unsync</string>
+      <string>ShaderEffect_Unsync+Movement</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>54dbb00297322485a9fd7362967994fb</guid>
+    <fileName>Assets/Realistic Glitches Lite/Assets/Scripts/ShaderToTexture.cs</fileName>
+    <timeStamp>2017-12-27T20:45:43+02:00</timeStamp>
+    <typeFullName>
+      <string>ShaderToTexture</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>af08ccf6817cfa1479ffb8053698dd27</guid>
+    <fileName>Assets/Scripts/GameManager.cs</fileName>
+    <timeStamp>2022-06-29T14:40:35.5958101+03:00</timeStamp>
+    <typeFullName>
+      <string>GameManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3f0fbae400367e440b74783965cbe00b</guid>
+    <fileName>Assets/Scripts/Anomalies/AnomaliesManager.cs</fileName>
+    <timeStamp>2022-06-29T01:03:34.5362925+03:00</timeStamp>
+    <typeFullName>
+      <string>AnomaliesManager</string>
+      <string>AnomaliesManager+AnomaliesAmount</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2811354d6d459b64db281da577a60470</guid>
+    <fileName>Assets/Scripts/Anomalies/Anomaly.cs</fileName>
+    <timeStamp>2022-06-24T20:27:15.0587457+03:00</timeStamp>
+    <typeFullName>
+      <string>Anomaly</string>
+      <string>Anomaly+AnomalyType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>75fa055609b25c640bb955ca5b492f0d</guid>
+    <fileName>Assets/Scripts/Anomalies/ExtraObjectAnomaly.cs</fileName>
+    <timeStamp>2022-06-15T20:48:50.6145866+03:00</timeStamp>
+    <typeFullName>
+      <string>ExtraObjectAnomaly</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>93792476df7372b4eb77ba9a671f5ecd</guid>
+    <fileName>Assets/Scripts/Anomalies/IntruderAnomaly.cs</fileName>
+    <timeStamp>2022-06-18T16:46:45.12023+03:00</timeStamp>
+    <typeFullName>
+      <string>IntruderAnomaly</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4bfffc09a8d022245966a2d59405f672</guid>
+    <fileName>Assets/Scripts/Anomalies/LightAnomaly.cs</fileName>
+    <timeStamp>2022-06-18T03:32:55.6381793+03:00</timeStamp>
+    <typeFullName>
+      <string>LightAnomaly</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>811788e9fd606c64ea1c6716010096ae</guid>
+    <fileName>Assets/Scripts/Anomalies/ObjectDisappearanceAnomaly.cs</fileName>
+    <timeStamp>2022-06-15T21:36:53.15253+03:00</timeStamp>
+    <typeFullName>
+      <string>ObjectDisappearanceAnomaly</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b78fbb22b5154f548a95f6dc841d141d</guid>
+    <fileName>Assets/Scripts/Anomalies/ObjectMovementAnomaly.cs</fileName>
+    <timeStamp>2022-06-26T21:16:13.9176781+03:00</timeStamp>
+    <typeFullName>
+      <string>ObjectMovementAnomaly</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>83c7f3a9e0a42944bb536c5457cc4724</guid>
+    <fileName>Assets/Scripts/Anomalies/PictureAnomaly.cs</fileName>
+    <timeStamp>2022-06-24T20:27:40.6852551+03:00</timeStamp>
+    <typeFullName>
+      <string>PictureAnomaly</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6c47e393d3ba3e044a3a7acd6c6a9e63</guid>
+    <fileName>Assets/Scripts/Anomalies/Room.cs</fileName>
+    <timeStamp>2022-06-22T01:39:42.7073914+03:00</timeStamp>
+    <typeFullName>
+      <string>Room</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>55e5417552e3d91478291b38db61932a</guid>
+    <fileName>Assets/Scripts/Audio/SoundManager.cs</fileName>
+    <timeStamp>2022-06-29T20:00:49.8310157+03:00</timeStamp>
+    <typeFullName>
+      <string>SoundManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5f1ed27a8c4ac7d4ebaf56249d8a6006</guid>
+    <fileName>Assets/Scripts/Menu/MenuManager.cs</fileName>
+    <timeStamp>2022-06-26T17:24:41.2976784+03:00</timeStamp>
+    <typeFullName>
+      <string>MenuManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cc9bae8aff972074a9d26adc9698fb28</guid>
+    <fileName>Assets/Scripts/Report System/ReportSystem.cs</fileName>
+    <timeStamp>2022-06-26T21:16:29.9418539+03:00</timeStamp>
+    <typeFullName>
+      <string>ReportSystem</string>
+      <string>ReportSystem+AnomalyReport</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0de8bde0ceaf1ff40a441875d776f20e</guid>
+    <fileName>Assets/Scripts/Report System/ReportUI.cs</fileName>
+    <timeStamp>2022-06-26T21:16:41.4459656+03:00</timeStamp>
+    <typeFullName>
+      <string>ReportUI</string>
+      <string>ReportUI+Report</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8e44b703914c6194f9c52d608a970fb8</guid>
+    <fileName>Assets/Scripts/UI/AnomaliesReport.cs</fileName>
+    <timeStamp>2022-06-13T13:10:19.4599866+03:00</timeStamp>
+    <typeFullName>
+      <string>AnomaliesReport</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4afbd790b994c1c43af3daa13bf0bc72</guid>
+    <fileName>Assets/Scripts/UI/AnomaliesWarning.cs</fileName>
+    <timeStamp>2022-06-26T21:47:17.9750898+03:00</timeStamp>
+    <typeFullName>
+      <string>AnomaliesWarning</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7542f192128d1544d884791e04c352ce</guid>
+    <fileName>Assets/Scripts/UI/CameraSwitch.cs</fileName>
+    <timeStamp>2022-06-30T17:40:21.8644059+03:00</timeStamp>
+    <typeFullName>
+      <string>CameraSwitch</string>
+      <string>CameraSwitch+CameraSwitchEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>82f559cb86b94be48892ae709d7de0d1</guid>
+    <fileName>Assets/Scripts/UI/StartMessageUI.cs</fileName>
+    <timeStamp>2022-06-26T21:14:32.211211+03:00</timeStamp>
+    <typeFullName>
+      <string>StartMessageUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Tool-UnityAssetCleaner-master/Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2016-04-12T15:11:36+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Tool-UnityAssetCleaner-master/Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2016-04-12T15:11:36+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Tool-UnityAssetCleaner-master/Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2016-04-12T15:11:36+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Tool-UnityAssetCleaner-master/Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2016-04-12T15:11:36+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Tool-UnityAssetCleaner-master/Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2016-04-12T15:11:36+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Tool-UnityAssetCleaner-master/Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2016-04-12T15:11:36+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
